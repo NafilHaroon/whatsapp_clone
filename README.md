@@ -5,9 +5,8 @@
 
 
 <div class="d-flex">
-    <img src="https://github.com/NafilHaroon/imagesPath/blob/5bb969695809000ca565222806bc7ba8dc59adb9/whatsapp.status.jpeg?raw=true" height="500"/>
-    <img src="https://github.com/NafilHaroon/imagesPath/blob/main/whatsapp.call.jpeg?raw=true" height="500"/>
-    <img src="https://github.com/NafilHaroon/imagesPath/blob/main/whatsapp.chat.jpeg?raw=true" height="500"/>
-  <img src="https://github.com/NafilHaroon/imagesPath/blob/main/whatsapp.profile.jpeg?raw=true" height="500"/>
+    <img src="https://github.com/user-attachments/assets/8c862e59-c11c-47b7-8a99-f0fb97b1bac2" height="500"/>
+    <img src="https://github.com/user-attachments/assets/b6e77da3-6de9-4433-834e-428d0bc90ddd" height="500"/>
+    <img src="https://github.com/user-attachments/assets/b6622cd9-d9a0-43c0-9467-2609c871ebb8" height="500"/>
+  <img src="https://github.com/user-attachments/assets/7d93e51d-8033-4261-9631-2e2dc11dc527" height="500"/>
 </div>
-
